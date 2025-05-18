@@ -6,4 +6,4 @@ This repo contains all the code needed to follow along with our [YouTube Tutoria
 
 Visit https://rayanslim.com/
 
-Note: the code for this demo was sourced from the official grafana/tempo github repository.
+_Note: the setup for this demo was sourced from the official grafana/tempo github repository.
