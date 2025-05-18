@@ -2,4 +2,6 @@
 
 This repo contains all the code needed to follow along with our [YouTube Tutorial]() or [Written Article]().
 
-**Become a Cloud and DevOps Engineer**: https://rayanslim.com/
+## Become a Cloud and DevOps Engineer
+
+- Visit https://rayanslim.com/
