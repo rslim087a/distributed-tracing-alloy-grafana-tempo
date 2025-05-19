@@ -4,7 +4,7 @@ This repo contains all the code needed to follow along with our [YouTube Tutoria
 
 ## Become a Cloud and DevOps Engineer
 
-Visit https://rayanslim.com/
+Learn every tool that matters: https://rayanslim.com/
 
 
 *Note: the setup for this demo was sourced from the official grafana/tempo github repository.*
