@@ -19,4 +19,3 @@ otelcol.exporter.otlp "grafanacloud" {
 		}
   }
 }
-
